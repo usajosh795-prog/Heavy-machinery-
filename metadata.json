@@ -1,0 +1,6 @@
+{
+  "name": "VOLTTORQ Heavy Engineering",
+  "description": "B2B heavy machinery manufacturer specializing in high-voltage power transformers, automated civil rebar benders, and heavy-duty industrial weighbridges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
